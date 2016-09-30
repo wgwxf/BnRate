@@ -1,6 +1,6 @@
 {
   "name": "bn-rate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Star Rate Component(Base on rc-rate)",
   "keywords": [
     "react",
